@@ -1,7 +1,7 @@
 # Global Content
 
 
-Syntax and Textures names
+# Syntax and Textures names
 
 ( A ) = ( Albedo ) ( Base Color ) ( Diffuse ) ( Color )
 
@@ -15,13 +15,9 @@ Syntax and Textures names
 
 ( O ) = ( Ambient Occlusion ) ( Occlusion )
 
-( ORM ) =
-
 ( R ) = ( Roughness )
 
 ( REF ) = ( Refraction )
-
-( RHOM ) =
 
 ( SPEC ) = ( Specular )
 
