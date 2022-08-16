@@ -1,0 +1,77 @@
+# Blender Autosaves
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+*.blend10
+*.blend11
+*.blend12
+*.blend13
+*.blend14
+*.blend15
+*.blend16
+*.blend17
+*.blend18
+*.blend19
+*.blend20
+*.blend21
+*.blend22
+*.blend23
+*.blend24
+*.blend25
+*.blend26
+*.blend27
+*.blend28
+*.blend29
+*.blend30
+
+
+
+
+# Substance Painter Lock Files
+*.spp.painter_lock
+
+
+
+# Windows Generated Files
+ehthumbs.db
+Thumbs.db
+
+
+
+# Mac Generated Files
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+
+
+
+# KDE Linux Generated Files
+*.kate-swp
+
+
+
+# Linux Generated Files
+*~
+.directory
+
+
+
+# Vim Generated Files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+
+
+
+
