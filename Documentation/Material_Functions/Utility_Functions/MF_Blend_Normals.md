@@ -8,12 +8,13 @@
 * Additional Normal - Vector 3
 
 
-## Output
+## Outputs
+
+* Normal
 
 
 
 
+## Info
 
-
-
-( MF Blend Normals ) works by takeing 2 vector 3 valus and addetevly mixes them
+* ( MF Blend Normals ) works by takeing 2 vector 3 valus and addetevly mixes them
