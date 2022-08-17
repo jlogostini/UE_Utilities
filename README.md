@@ -1,4 +1,4 @@
-# Global Content is a Cross platform developer toolset for Unreal Engine 5
+# Global Content is a Cross platform toolset for Unreal Engine 5 developers
 
 # Assets
 
