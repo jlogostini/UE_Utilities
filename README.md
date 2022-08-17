@@ -18,7 +18,7 @@ Utility Functions are Material Functions built to do common tasks needed in mate
 * [MF Split RGB](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_Split_RGB.md)
 * [MF Split RGBA](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_Split_RGBA.md)
 * [MF Top Mask](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_Top_Mask.md)
-* [MF Triplanar Normal_Projection](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_Triplanar_Normal_Projection.md)
+* [MF Triplanar Normal Projection](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_Triplanar_Normal_Projection.md)
 * [MF Triplanar Projection](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_Triplanar_Projection.md)
 * [MF UV Tile](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_UV_Tile.md)
 * [MF UV Triplanar Projection](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_UV_Triplanar_Projection)
