@@ -2,13 +2,13 @@
 
 
 
-## ⚙️ Master Materials
-Master Material are mode to be inscened and be highly customizable and not assess specific
+## Master Materials
+Master Material are made to be instanced and be highly customizable and not asset specific
 * [MM PBR](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Master_Materials/MM_PBR/MM_PBR_Home.md)
 
 
-## ⚙️ Utility Functions
-Utility Functions are Material Functions build to do common tasks that redoing every material would take forever
+## Utility Functions
+Utility Functions are Material Functions built to do common tasks needed in materials
 * [MF Blend Normals](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_Blend_Normals.md)
 * [MF Channel Select RGB](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_Channel_Select_RGB.md)
 * [MF Channel Select RGBA](https://github.com/jlogostini/Global_Content/blob/main/Documentation/Material_Functions/Utility_Functions/MF_Channel_Select_RGBA.md)
