@@ -1,7 +1,7 @@
 # Global Content is a Cross platform toolset for Unreal Engine 5 developers
 
 # Documentation
-* [Documentation - English](https://github.com/jlogostini/Global_Content/blob/main/Documentation/en/Documentation.md)
+* [Documentation - English](https://github.com/jlogostini/Global_Content/blob/main/.docs/en/Documentation.md)
 
 # Syntax and Textures names
 ( A ) = ( Albedo ) ( Base Color ) ( Diffuse ) ( Color )
