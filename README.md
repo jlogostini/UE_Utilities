@@ -1,4 +1,4 @@
-# Global Content is a Cross platform toolset for Unreal Engine 5 developers
+# Global Content is a Cross platform toolset for Unreal Engine developers
 
 # Documentation
 * [Documentation - English](https://github.com/jlogostini/Global_Content/blob/main/.docs/en/Documentation.md)
@@ -8,13 +8,13 @@
 
 ( E ) = ( Emission ) ( Emissive ) ( Glow ) ( Light )
 
-( H ) = ( Height ) ( Displacement )
+( H ) = ( Height ) ( Displacement ) ( Bump )
 
 ( M ) = ( Metallic ) ( Metalness )
 
 ( N ) = ( Normal )
 
-( O ) = ( Ambient Occlusion ) ( Occlusion )
+( O ) = ( Ambient Occlusion ) ( Occlusion ) ( Self Shadowing )
 
 ( R ) = ( Roughness )
 
@@ -24,4 +24,6 @@
 
 ( SSS ) = ( Subsurface Scattering )
 
-( T ) = ( Transparency )
+( T ) = ( Transparency ) ( Opacity ) ( Translucent )
+
+( RGB ) = ( Mask ) ( Color ID )
