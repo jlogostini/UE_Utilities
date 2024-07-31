@@ -2,17 +2,17 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0.2",
-	"FriendlyName": "Global Content",
+	"FriendlyName": "UE Utilities",
 	"Description": "",
-	"Category": "John Logostini",
-	"CreatedBy": "John Logostini",
+	"Category": "JohnLogostini",
+	"CreatedBy": "JohnLogostini",
 	"CreatedByURL": "https://github.com/jlogostini",
-	"DocsURL": "https://github.com/jlogostini/Global_Content",
+	"DocsURL": "https://github.com/jlogostini/Global_Content/blob/main/.docs/en/Documentation.md",
 	"MarketplaceURL": "",
-	"SupportURL": "https://github.com/jlogostini/Global_Content",
+	"SupportURL": "https://github.com/jlogostini/UE_Utilities/issues",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"EnabledByDefault" : true
+	"EnabledByDefault": true
 }
