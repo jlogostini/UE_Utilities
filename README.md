@@ -1,4 +1,4 @@
-# Global Content is a Cross platform toolset for Unreal Engine developers
+# UE Utilities is a Cross platform toolset for Unreal Engine developers
 
 # Documentation
 * [Documentation - English](https://github.com/jlogostini/Global_Content/blob/main/.docs/en/Documentation.md)
